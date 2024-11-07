@@ -5,6 +5,7 @@ body {
     padding: 20px;
     color: #333;
 }
+<img src="img/Juan.jpg" alt="Foto de Juan Esteban" class="img-thumbnail rounded-circle" style="width: 100px; height: 100px;">
 
 h1 {
     text-align: center;
